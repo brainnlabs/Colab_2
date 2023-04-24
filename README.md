@@ -1,7 +1,7 @@
 # Initializing SSD Disk
-[Washington University in St. Louis](http://www.wustl.edu)
+[Fix new SSD not showing up in Windows | EASY | NO DOWNLOADS](https://www.youtube.com/watch?v=pu5IbAlw1Nk)
 
-Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
+Instructor: [Pedro Coutino](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
