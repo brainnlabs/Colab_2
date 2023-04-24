@@ -1,4 +1,4 @@
-# T81 558:Applications of Deep Neural Networks AAAAA
+# Initializing SSD Disk
 [Washington University in St. Louis](http://www.wustl.edu)
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
