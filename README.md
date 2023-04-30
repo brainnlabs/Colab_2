@@ -5,7 +5,13 @@ Youtube Video:
 [Fix new SSD not showing up in Windows | EASY | NO DOWNLOADS](https://www.youtube.com/watch?v=pu5IbAlw1Nk)
 
 
-**The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
+# Format SSD from prompt
+
+Youtube Video:
+
+[Completely format hard drive removing all partitions (including OEM)][(https://www.youtube.com/watch?v=pu5IbAlw1Nk)](https://www.youtube.com/watch?v=6lTrZopRtE8)
+
+, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
 * Section 1. Spring 2023, Monday, 2:30 PM, Location: Eads / 216 
 * Section 2. Spring 2023, Online
