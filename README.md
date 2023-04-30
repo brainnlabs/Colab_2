@@ -9,7 +9,10 @@ Youtube Video:
 
 Youtube Video:
 
-[Completely format hard drive removing all partitions (including OEM)][(https://www.youtube.com/watch?v=pu5IbAlw1Nk)](https://www.youtube.com/watch?v=6lTrZopRtE8)
+[Completely format hard drive removing all partitions (including OEM)](https://www.youtube.com/watch?v=6lTrZopRtE8)
+
+
+
 
 , to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
