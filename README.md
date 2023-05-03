@@ -13,6 +13,13 @@ Youtube Video:
 [Completely format hard drive removing all partitions (including OEM)](https://www.youtube.com/watch?v=6lTrZopRtE8)
 Note: For only Linux installation, there is no need to initialize SSD.
 
+# Fans Speed NVIDIA X Server Settings (Linux)
+
+Youtube Video:
+
+[fix manual fan control nvidia driver "Failed to set new Fan Speed" in Ubuntu 22.04](https://www.youtube.com/watch?v=A1QJtteOUz4)
+Note: VIM application uses Shift + Enter to type and :+x to save changes.
+
 # 1.- Install Linux Ubuntu
 
 [Installing Ubuntu 20.4 LTS](https://www.youtube.com/watch?v=FAknvXs4M1w)
