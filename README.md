@@ -1,17 +1,23 @@
-# Initializing SSD Disk (Windows, NOT Linux)
+# Initializing SSD Disk (Windows)
 
 Youtube Video:
 
 [Fix new SSD not showing up in Windows | EASY | NO DOWNLOADS](https://www.youtube.com/watch?v=pu5IbAlw1Nk)
+Note: For only Linux installation, there is no need to initialize SSD.
 
 
-# Format SSD from prompt (Windows, NOT Linux)
+# Format SSD from prompt (Windows)
 
 Youtube Video:
 
 [Completely format hard drive removing all partitions (including OEM)](https://www.youtube.com/watch?v=6lTrZopRtE8)
+Note: For only Linux installation, there is no need to initialize SSD.
 
-# 1.- Install NVIDIA GPU drivers
+# 1.- Install Linux Ubuntu
+
+[Installing Ubuntu 20.4 LTS](https://www.youtube.com/watch?v=FAknvXs4M1w)
+
+# 2.- Install NVIDIA GPU drivers
 
 Youtube Video:
 
