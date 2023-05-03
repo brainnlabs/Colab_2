@@ -13,6 +13,10 @@ Youtube Video:
 
 # 1.- Install NVIDIA GPU drivers
 
+Youtube Video:
+
+[Install Nvidia Driver Ubuntu 20.04 | Linux | Complete Installation & Setup | 100% Working](https://www.youtube.com/watch?v=FAknvXs4M1w)
+
 
 
 
