@@ -18,6 +18,7 @@ Note: For only Linux installation, there is no need to initialize SSD.
 Youtube Video:
 
 [fix manual fan control nvidia driver "Failed to set new Fan Speed" in Ubuntu 22.04](https://www.youtube.com/watch?v=A1QJtteOUz4)
+
 Note: VIM application uses Shift + Enter to type and :+x to save changes.
 
 # 1.- Install Linux Ubuntu
