@@ -1,11 +1,11 @@
-# Initializing SSD Disk
+# Initializing SSD Disk (Windows, Linux NOT)
 
 Youtube Video:
 
 [Fix new SSD not showing up in Windows | EASY | NO DOWNLOADS](https://www.youtube.com/watch?v=pu5IbAlw1Nk)
 
 
-# Format SSD from prompt
+# Format SSD from prompt (Windows, Linux NOT)
 
 Youtube Video:
 
