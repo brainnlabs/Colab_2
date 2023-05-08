@@ -31,6 +31,18 @@ Youtube Video:
 
 [Install Nvidia Driver Ubuntu 20.04 | Linux | Complete Installation & Setup | 100% Working](https://www.youtube.com/watch?v=FAknvXs4M1w)
 
+# 3.- Install TENSORFLOW
+
+Youtube Video:
+
+[2020, TensorFlow 2.2 NVIDIA GPU (CUDA)/CPU, Keras, & Python 3.7 in Linux Ubuntu](https://www.youtube.com/watch?v=dj-Jntz-74g&t=357s)
+
+# 4.- Install PYTORCH
+
+Youtube Vide:
+
+[How to Install PyTorch on Linux for CPU or GPU - No Driver Install Needed](https://www.youtube.com/watch?v=YTvVxYneu7w)
+
 
 
 
