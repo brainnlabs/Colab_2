@@ -40,6 +40,8 @@ Youtube Video:
 
 [Tensorflow compatibility chart](https://www.tensorflow.org/install/source)
 
+[tensorflow-gpu Conda Version](https://anaconda.org/anaconda/tensorflow-gpu)
+
 # 4.- Install Pytorch
 
 Youtube Vide:
