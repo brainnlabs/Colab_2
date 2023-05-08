@@ -44,12 +44,13 @@ Before to proceed with instructions, check the latest compatibility versions of 
 
 [tensorflow-gpu Conda Version](https://anaconda.org/anaconda/tensorflow-gpu)
 
-Sotware versions:
+Software versions:
 
 + **miniconda 3.8**
 + **tensorflow-2.4.0**
 + **phyton 3.8**
-+ **cuDNN	8.0, CUDA 11.0**
++ **cuDNN	8.0**
++ **CUDA 11.0**
 
 
 1.- Download [Miniconda 3.8](https://docs.conda.io/en/latest/miniconda.html)
