@@ -31,6 +31,9 @@ Youtube Video:
 
 [Install Nvidia Driver Ubuntu 20.04 | Linux | Complete Installation & Setup | 100% Working](https://www.youtube.com/watch?v=FAknvXs4M1w)
 
+- Tensorflow-gpu  version 2.4.1
+- Python 3.6-3.8
+
 # 3.- Install TENSORFLOW
 
 Youtube Video:
