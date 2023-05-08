@@ -59,6 +59,14 @@ Sotware versions:
 
 5.- Install Jupiter Notebook: **conda install -y jupyter**
 
+6.- Create *tensorflow environment* inside conda: **conda create --name tensorflow python=3.8**
+
+7.- Enter the created *tensorflow environment*: **conda activate tensorflow**
+
+8.- Add Jupyter support to the *tensorflow environment*: **conda install -c conda-forge nb_conda**
+
+9.- Install *tensorflow-gpu*: **conda install -c anaconda tensorflow-gpu**
+
 # 4.- Install Pytorch
 
 Youtube Vide:
