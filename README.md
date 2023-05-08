@@ -44,6 +44,15 @@ miniconda 3.8, tensorflow-2.4.0,	phyton 3.6-3.8,	cuDNN	8.0, CUDA 11.0
 
 [tensorflow-gpu Conda Version](https://anaconda.org/anaconda/tensorflow-gpu)
 
+1.- Download [Miniconda 3.8](https://docs.conda.io/en/latest/miniconda.html)
+
+2.- Open Terminal and change directory: **cd ./Downloads/**
+
+3.- Install miniconda: **chmod -x ./name-of-file.sh**
+
+4.- Install conda navigator: **conda install anaconda-navigator**
+
+5.- Install Jupiter Notebook: **conda install -y jupyter**
 
 # 4.- Install Pytorch
 
