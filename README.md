@@ -75,7 +75,7 @@ Software versions:
 
 + *tensorflow-gpu* installs CUDA 10.0 and cuDNN 7.0
 
-10.- create a toolsTensorflow.yml file with the following code:
+10.- Download [toolsTensorflow.yml](https://raw.githubusercontent.com/brainnlabs/SSD-Initialization/main/toolsTensorflow.yml) and paste inside **anaconda3** folder
 
 # 4.- Install Pytorch
 
