@@ -73,6 +73,10 @@ Software versions:
 
 9.- Install *tensorflow-gpu*: **conda install -c anaconda tensorflow-gpu**
 
++ *tensorflow-gpu* installs CUDA 10.0 and cuDNN 7.0
+
+10.- create a toolsTensorflow.yml file with the following code:
+
 # 4.- Install Pytorch
 
 Youtube Vide:
