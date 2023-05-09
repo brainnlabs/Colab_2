@@ -77,7 +77,7 @@ Software versions:
 
 10.- Download [toolsTensorflow.yml](https://raw.githubusercontent.com/brainnlabs/SSD-Initialization/main/toolsTensorflow.yml) and paste it inside **anaconda3** folder.
 
-11.- Run the following terminal command: **conda env update --file tools.yml** 
+11.- Run the following terminal command: **conda env update --file toolsTensorflow.yml** 
 
 # 4.- Install Pytorch
 
