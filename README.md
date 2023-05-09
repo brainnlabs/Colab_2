@@ -75,7 +75,7 @@ Software versions:
 
 + *tensorflow-gpu* installs CUDA 10.0 and cuDNN 7.0
 
-10.- Download [toolsTensorflow.yml](https://raw.githubusercontent.com/brainnlabs/SSD-Initialization/main/toolsTensorflow.yml) and paste it inside **anaconda3** folder.
+10.- Download [toolsTensorflow.yml](https://raw.githubusercontent.com/brainnlabs/SSD-Initialization/main/toolsTensorflow.yml) and paste it inside **miniconda3** folder inside home.
 
 11.- Run the following terminal command: **conda env update --file toolsTensorflow.yml** 
 
