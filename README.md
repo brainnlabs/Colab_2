@@ -60,6 +60,8 @@ Software versions:
 3.- Install miniconda: **chmod -x ./name-of-file.sh**
 
 4.- Install conda navigator: **conda install anaconda-navigator**
+ 
+ + To open anaconda navigator type: **anaconda-navigator
 
 5.- Install Jupiter Notebook: **conda install -y jupyter**
 
