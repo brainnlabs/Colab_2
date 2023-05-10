@@ -1,8 +1,9 @@
 name: tensorflow
+ 
 dependencies:
-    - cudatoolkit=11.2.2 
-    - cudnn=8.1.0
+    - pip>=19.0
     - jupyter
+    - tensorflow-gpu=2.1.0
     - scikit-learn
     - scipy
     - pandas
@@ -15,9 +16,7 @@ dependencies:
     - pyyaml
     - flask
     - boto3
-    - pip
     - pip:
         - bayesian-optimization
         - gym
         - kaggle
-        
