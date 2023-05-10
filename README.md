@@ -83,6 +83,8 @@ Software versions:
 
 13.- Testing *tensorflow* environment: **jupyter notebook**
 
+
+
 # 4.- Install Pytorch
 
 Youtube Vide:
