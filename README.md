@@ -79,6 +79,10 @@ Software versions:
 
 11.- Run the following terminal command: **conda env update --file toolsTensorflow.yml** 
 
+12.- Register your environment to show inside jupyter notebook: **python -m ipykernel install --user --name tensorflow --display-name "Python 3.7 (tensorflow)"**
+
+13.- Testing *tensorflow* environment: **jupyter notebook**
+
 # 4.- Install Pytorch
 
 Youtube Vide:
