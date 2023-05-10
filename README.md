@@ -47,10 +47,10 @@ Before to proceed with instructions, check the latest compatibility versions of 
 Software versions:
 
 + **miniconda 3.8**
-+ **tensorflow-2.4.0**
-+ **phyton 3.6-3.8**
-+ **cuDNN	8.0**
-+ **CUDA 11.0**
++ **tensorflow-2.1.0**
++ **phyton 3.7.16**
++ **cuDNN	7.6.5**
++ **CUDA 10.1.243**
 
 
 1.- Download [Miniconda 3.8](https://docs.conda.io/en/latest/miniconda.html)
@@ -65,7 +65,7 @@ Software versions:
 
 5.- Install Jupiter Notebook: **conda install -y jupyter**
 
-6.- Create *tensorflow environment* inside conda: **conda create --name tensorflow python=3.8**
+6.- Create *tensorflow environment* inside conda: **conda create --name tensorflow python=3.7**
 
 7.- Enter the created *tensorflow environment*: **conda activate tensorflow**
 
