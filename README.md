@@ -73,9 +73,9 @@ Software versions:
 
 9.- Install *tensorflow-gpu*: **conda install -c anaconda tensorflow-gpu**
 
-+ *tensorflow-gpu* installs CUDA 10.0 and cuDNN 7.0
++ *tensorflow-gpu* installs tensorflow 2.4.1, CUDA 10.0 and cuDNN 7.0
 
-10.- Download [toolsTensorflow.yml](https://raw.githubusercontent.com/brainnlabs/SSD-Initialization/main/toolsTensorflow.yml) and paste it inside **miniconda3** folder inside home.
+10.- Additional libraries and downgrading tensorflow 2.1 is required, Download [toolsTensorflow.yml](https://raw.githubusercontent.com/brainnlabs/SSD-Initialization/main/toolsTensorflow.yml) and paste it inside **miniconda3** folder inside home.
 
 11.- Run the following terminal command: **conda env update --file toolsTensorflow.yml** 
 
