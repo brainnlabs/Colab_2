@@ -48,7 +48,7 @@ Software versions:
 
 + **miniconda 3.8**
 + **tensorflow-2.4.0**
-+ **phyton 3.8**
++ **phyton 3.6-3.8**
 + **cuDNN	8.0**
 + **CUDA 11.0**
 
