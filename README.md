@@ -2,7 +2,7 @@
 
 ---
 
-# 1.-Resources
+# Resources
 
 Youtube Video:
 
@@ -16,7 +16,7 @@ Before to proceed with instructions, check the latest compatibility versions of 
 
 ---
 
-# 2.- Software versions:
+# Required Software versions:
 
 + **miniconda 3.8**
 + **tensorflow-2.1.0**
@@ -26,7 +26,7 @@ Before to proceed with instructions, check the latest compatibility versions of 
 
 ---
 
-# 3.-
+# Installation Steps
 
 1.- Download [Miniconda 3.8](https://docs.conda.io/en/latest/miniconda.html)
 
