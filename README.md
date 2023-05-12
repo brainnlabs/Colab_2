@@ -77,13 +77,13 @@ gpu = len(tf.config.list_physical_devices('GPU'))>0
 print("GPU is", "available" if gpu else "NOT AVAILABLE")
 ```
 
-Tensor Flow Version: 2.1.0  
-Keras Version: 2.2.4-tf
+*Tensor Flow Version: 2.1.0*  
+*Keras Version: 2.2.4-tf*
 
-Python 3.7.7 (default, May  6 2020, 11:45:54) [MSC v.1916 64 bit (AMD64)]  
-Pandas 1.0.5  
-Scikit-Learn 0.23.1  
-GPU is available
+*Python 3.7.7 (default, May  6 2020, 11:45:54) [MSC v.1916 64 bit (AMD64)]* 
+*Pandas 1.0.5*  
+*Scikit-Learn 0.23.1*  
+*GPU is available*
 
 
 
