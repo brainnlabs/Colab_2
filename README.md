@@ -32,7 +32,7 @@ Before to proceed with instructions, check the latest compatibility versions of 
 
 2.- Open Terminal and change directory: **cd ./Downloads/**
 
-3.- Install miniconda: **chmod -x ./name-of-file.sh**
+3.- Install miniconda: **./name-of-file.sh** (no permission required) **chmod +x ./name-of-file.sh** (if permission is required)
 
 4.- Install conda navigator: **conda install anaconda-navigator**
  
